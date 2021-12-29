@@ -12,6 +12,7 @@ git clone https://github.com/jd3busk/pybackup.git
 cd pybackup
 python3 -m venv .venv
 source .venv/bin/activate
+pip install --upgrade pip
 pip install -r requirements.txt
 ```
 

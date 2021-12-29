@@ -25,7 +25,7 @@ These entries can be IP or FQDN (assuming DNS works).
 python backup.py
 ```
 
-## Set creds as local environmental variables (optional)
+## (Optional) Set creds as local environmental variables
 If you don't wish to be prompted for credentials everytime the script is ran you can optionally set the following environmental variables.
 ```
 export NETMIKO_USERNAME="cisco"
